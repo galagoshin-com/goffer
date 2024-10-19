@@ -1,12 +1,12 @@
-# gologger
+# goffer
 Библиотека для записи логов.
 
 ## Установка
 
 ````bash
-go get https://github.com/galagoshin-com/gologger
+go get https://github.com/galagoshin-com/goffer
 ````
 
 ## Документация
 
-https://github.com/galagoshin-com/gologger/wiki
+https://github.com/galagoshin-com/goffer/wiki

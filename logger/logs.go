@@ -10,7 +10,7 @@ var logsDir = getLogDir()
 func getLogDir() string {
 	result := os.Getenv("LOG_DIR")
 	if os.Getenv("LOG_DIR") == "" {
-		result = "/var/log/gologger"
+		result = "/var/log/goffer"
 	}
 	return result
 }
